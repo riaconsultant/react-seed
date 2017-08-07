@@ -1,0 +1,32 @@
+{
+  "name": "react-seed",
+  "version": "1.0.0",
+  "description": "First react application for the git explorer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riaconsultant/react-seed.git"
+  },
+  "keywords": [
+    "nodejs",
+    "reactjs",
+    "sample",
+    "application"
+  ],
+  "author": "Manoj Chaurasiya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riaconsultant/react-seed/issues"
+  },
+  "homepage": "https://github.com/riaconsultant/react-seed#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "watchify": "^3.9.0"
+  }
+}

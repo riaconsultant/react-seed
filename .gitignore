@@ -1,0 +1,24 @@
+# See
+# compiled Output
+/tmp
+
+#dependencies
+/node_modules
+
+
+#IDE - VS Code
+
+
+#misc
+/.sass-cache
+/connect.lock
+npm-debug.log
+testem.log
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+Thumb.db
